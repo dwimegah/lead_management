@@ -25,5 +25,4 @@
         </form>
     </div>
 
-    <script src="https://cdn.jsdelivr.net" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslKqhlXgpwzQZ" crossorigin="anonymous"></script>
 

@@ -4,6 +4,7 @@
 
 <h1>Leads List</h1>
 <table class="table">
+    <a href="{{ route('leads.create') }}" class="btn btn-sm btn-success">Add New Lead</a>
     <thead>
         <tr>
             <th>Name</th>
